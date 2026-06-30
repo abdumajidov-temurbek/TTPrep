@@ -1,0 +1,3 @@
+  cd /home/temur/TTPrep/TTPrep/ttprep-app
+  npm run build
+  npm start
